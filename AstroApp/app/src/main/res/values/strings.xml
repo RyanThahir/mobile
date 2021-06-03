@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AstroApp</string>
+    <string name="prompt">Press the generate button to get your quote</string>
+    <string name="getquote">Generate</string>
+    <string name="share">Share Quote</string>
+    <string name="savequote">Save Quote</string>
+</resources>
